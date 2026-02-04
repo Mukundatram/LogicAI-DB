@@ -1,0 +1,24 @@
+# Ignore all files
+*
+# But not these!
+!.gitignore
+!README.md
+!docker-compose.yml
+!requirements.txt
+!frontend.py
+!app/
+!app/Dockerfile
+!app/api.py
+!app/main.py
+!app/agent/
+!app/agent/dual_agent.py
+!app/agent/executor_agent.py
+!app/agent/planner_agent.py
+!app/agent/prompts.py
+!app/config/
+!app/config/settings.py
+!app/db/
+!app/db/connection.py
+!app/db/schema.py
+!app/tools/
+!app/tools/mysql_tool.py
