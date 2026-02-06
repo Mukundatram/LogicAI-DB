@@ -1,4 +1,4 @@
-# LogicAI-DB
+
 
 LogicAI-DB is an intelligent agentic database project that integrates deep learning and agentic AI techniques to provide advanced data management and automation capabilities. The project is structured to support modular development, containerization, and easy deployment.
 

@@ -1,6 +1,10 @@
 # Ignore all files
 *
+# Ignore environment files
 .env
+.env.*
+# Ignore all directories
+*/
 # But not these!
 !.gitignore
 !README.md
@@ -23,4 +27,4 @@
 !app/db/schema.py
 !app/tools/
 !app/tools/mysql_tool.py
- 
+
